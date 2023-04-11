@@ -1,2 +1,2 @@
 # Calculator
-C++ Calculator
+Simple C++ calculator
